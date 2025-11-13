@@ -1,0 +1,26 @@
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# Streamlitの一時ファイル
+.streamlit/
+*.log
+
+# モデルや実験データ
+runs/
+mouse_nose_dataset/
+
+# 一時ファイルや動画出力
+*.mp4
+*.avi
+*.mov
+*.mts
+*.jpg
+*.png
+*.tmp
+*.zip
+
+# VSCode設定や仮想環境
+.vscode/
+.env/
+venv/
