@@ -1,8 +1,0 @@
-path: C:/Users/admin/OneDrive/デスクトップ/streamlit_app/mouse_nose_dataset
-train: images/train
-val: images/val
-
-nc: 1
-names: ['nose']
-
-
